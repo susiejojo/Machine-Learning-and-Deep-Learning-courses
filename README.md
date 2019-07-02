@@ -1,2 +1,2 @@
-# ML and Kaggle begginers
+# ML and Kaggle beginners
 using sklearn && octave 
