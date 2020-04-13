@@ -1,2 +1,6 @@
 # ML and Kaggle beginner contests
-using sklearn && octave 
+### Technology used:
+Python (sklearn,matplotlib),octave
+### Datasets worked upon:
+- Titanic
+- Housing Prices
