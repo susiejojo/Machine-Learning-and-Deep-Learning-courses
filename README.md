@@ -9,3 +9,4 @@ Python (sklearn,matplotlib),octave
 - Decision Tree
 - Linear & Logistic regression
 - Clustering and its types
+- SVM
